@@ -1,0 +1,48 @@
+
+.recomendations { padding: 80px 0; }
+
+.recomendations .heading { display: flex; margin-bottom: 40px; }
+
+.recomendations .heading i { color: var(--primary-color); margin-right: 5px; margin-top: 3px; }
+
+.recomendations .game_item { margin: 0; }
+
+.recomendations .game_item .image { height: 250px; }
+
+.recomendations .game_item .details { height: auto; }
+
+.recomendations .description,
+.recomendations .game_item .genre { display: none;}
+
+@media (max-width:1199px) {
+    .recomendations .game_item .image { height: 200px; }
+}
+
+@media (max-width:991px) {
+
+    .recomendations { padding: 60px 0; }
+
+    .recomendations .heading { font-size: 27px; }
+
+    .recomendations .game_item .image { height: 160px; }
+}
+
+@media (max-width:767px) {
+
+    .recomendations { padding: 50px 0; }
+
+    .recomendations .row > div:not(:last-of-type) { margin-bottom: 30px; }
+
+    .recomendations .game_item .image { height: 280px; }
+
+    .recomendations .game_item .details { padding: 15px; }
+
+    .recomendations .game_item .title { font-size: 16px; }
+}
+
+@media (max-width:575px) {
+
+    .recomendations .heading { font-size: 25px; }
+
+    .recomendations .game_item .image { height: 200px; }
+}

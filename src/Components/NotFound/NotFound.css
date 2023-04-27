@@ -1,0 +1,21 @@
+.not_found {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 68px);
+}
+
+.not_found h2 { font-size: 4rem; text-transform: uppercase; }
+
+.not_found h2 span,
+.not_found h2 i { color: var(--primary-color);  }
+
+.not_found h2 i { margin-left: 15px;}
+
+@media (max-width: 991px) {
+    .not_found h2 { font-size: 3rem;}
+}
+
+@media (max-width: 767px) {
+    .not_found h2 { font-size: 2rem;}
+}
