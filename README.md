@@ -17,9 +17,15 @@ npm i
 npm run dev
 ```
 ## 🎞️ App Screenshots
+
 ![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/0240f50f-0d5d-4078-ba45-7a546252130d)
 
 ![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/5f2c146b-7f03-469e-8e4e-574003a6649b)
 
+![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/6d518956-ec05-491b-9151-47a68c29d381)
 
-###### 👉 Deployment Link : [yummy-app.vercel.app](https://game-over-app-theta.vercel.app/)
+![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/505c95c8-b83d-41e1-8920-b62eb28fc466)
+
+![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/953fd6a6-d38c-4887-8fff-4e227aca625b)
+
+###### 👉 Deployment Link : [game-over-app-theta.vercel.app](https://game-over-app-theta.vercel.app/)
