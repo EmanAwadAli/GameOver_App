@@ -1,7 +1,6 @@
-import axios from "axios";
 import React, { useEffect, useState } from "react";
+import axios from "axios";
 import GameItem from "../GameItem/GameItem";
-import Skeleton from "react-loading-skeleton";
 import CardSkeleton from "../CardSkeleton/CardSkeleton";
 
 export default function AllGames() {

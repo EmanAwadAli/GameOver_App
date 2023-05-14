@@ -1,21 +1,21 @@
 import React, { useEffect, useState } from "react";
 import Layout from "./Components/Layout/Layout";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
+import ProtectedRoute from "./Components/ProtectedRoute/ProtectedRoute";
 import Home from "./Components/Home/Home";
+import AllGames from "./Components/AllGames/AllGames";
 import Platforms from "./Components/GamesByPlatform/GamesByPlatform";
+import GamesBySort from "./Components/GamesBySort/GamesBySort";
+import GamesByCategory from "./Components/GamesByCategory/GamesByCategory";
+import GameDetails from "./Components/GameDetails/GameDetails";
 import Login from "./Components/Login/Login";
 import Register from "./Components/Register/Register";
-import NotFound from "./Components/NotFound/NotFound";
-import jwtDecode from "jwt-decode";
-import ProtectedRoute from "./Components/ProtectedRoute/ProtectedRoute";
-import AllGames from "./Components/AllGames/AllGames";
-import GameDetails from "./Components/GameDetails/GameDetails";
-import GamesByCategory from "./Components/GamesByCategory/GamesByCategory";
-import GamesBySort from "./Components/GamesBySort/GamesBySort";
-import { SkeletonTheme } from "react-loading-skeleton";
 import ForgetPassword from "./Components/ForgetPassword/ForgetPassword";
 import VerifyRestCode from "./Components/VerifyRestCode/VerifyRestCode";
 import ResetPassword from "./Components/ResetPassword/ResetPassword";
+import NotFound from "./Components/NotFound/NotFound";
+import jwtDecode from "jwt-decode";
+import { SkeletonTheme } from "react-loading-skeleton";
 
 export default function App() {
   const [user, setUser] = useState(null);

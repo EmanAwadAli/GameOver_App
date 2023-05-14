@@ -1,6 +1,6 @@
-import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
+import axios from "axios";
 import Slider from "react-slick";
 import style from "./GameDetails.module.css";
 import Loading from "../Loading/Loading";

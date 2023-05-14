@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./GameItem.css";
+
 export default function GameItem({ game }) {
   return (
     <Link className="game_item" to={`/games/gamedetails/${game.id}`}>

@@ -1,9 +1,8 @@
-import axios from "axios";
 import React, { useEffect, useState } from "react";
+import axios from "axios";
 import GameItem from "../GameItem/GameItem";
-import "./Recomendations.css";
-import Skeleton, { SkeletonTheme } from "react-loading-skeleton";
 import CardSkeleton from "../CardSkeleton/CardSkeleton";
+import "./Recomendations.css";
 
 export default function Recomendations() {
   const [games, setGames] = useState([]);
