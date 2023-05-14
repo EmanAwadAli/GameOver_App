@@ -18,14 +18,18 @@ npm run dev
 ```
 ## 🎞️ App Screenshots
 
-![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/ee2d099c-c5cb-4cc1-8189-515046ba0751)
+![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/d98787a2-893b-4d93-b9ee-e18a24a82a9f)
 
-![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/2aebab9c-4ab4-4370-9156-1d96b9dd3794)
+![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/57ff6fa4-87af-4f7d-bfab-115c701d2d37)
 
-![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/4c27d3b2-f6a2-4bc0-9e28-d8d554d2a179)
+![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/f629546f-55ae-4b28-982d-6c08e38711cd)
 
-![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/94ff33c1-7363-4eaf-b60e-0e96e9d16e69)
+![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/9b91bf13-4edc-4310-a721-fbdce13af4db)
 
-![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/b9047967-59f1-497c-a43a-e83f775ada8d)
+![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/d5c4ae6a-0d6c-4462-b040-81a43b17b53e)
+
+![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/3b97cd5d-126f-4d6f-9e5f-b053085a5436)
+
+![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/416dada8-127b-46f4-91c8-ec7691e2e2f2)
 
 ###### 👉 Deployment Link : yummy-app.vercel.app
