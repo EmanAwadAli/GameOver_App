@@ -26,6 +26,6 @@ npm run dev
 
 ![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/505c95c8-b83d-41e1-8920-b62eb28fc466)
 
-![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/953fd6a6-d38c-4887-8fff-4e227aca625b)
+![image](https://github.com/EmanAwadAli/GameOver_App/assets/54704537/e085a6d0-d846-4daa-a29b-53511e20d0cc)
 
 ###### 👉 Deployment Link : [game-over-app-theta.vercel.app](https://game-over-app-theta.vercel.app/)
