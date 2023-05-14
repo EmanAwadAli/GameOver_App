@@ -1,6 +1,6 @@
 # ☠️ Game Over App
 ## 📌 Overview
-In this project, I create a web application that display a set of games and its related details.
+In this project, I created a web application that displays a set of games and its related details.
 
 ## 📥 Installation
 ###### Clone Project
