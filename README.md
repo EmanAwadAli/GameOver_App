@@ -1,4 +1,4 @@
-# ☠️ GameOver App
+# 🎮 GameOver App
 ## 📌 Overview
 In this project, I created a web application that displays a set of games and its related details.
 
